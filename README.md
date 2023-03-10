@@ -2,7 +2,7 @@
 "A dogecoin whale is a cryptocurrency term that refers to individuals or entities that hold large amounts of dogecoin."
 
 
-Whale of the day - 2023 March 09
+Whale of the day - 2023 March 10
 ----
 
 |DOGE Amount|Transaction ID|
